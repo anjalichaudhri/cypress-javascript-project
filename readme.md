@@ -29,6 +29,15 @@ Let’s now integrate some JavaScript concepts like variables, functions, arrays
 In Cypress, you can use variables (let, const, and var) to store values.
 
 
+for reference:
+questions common
+https://chatgpt.com/share/67a48f5c-ed1c-800f-9a73-bbe451128462
+concepts: projects js cypress
+https://chatgpt.com/share/67a48f93-e464-800f-9f20-589e9b2283e3
+
+
+
+
 
 
 
